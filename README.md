@@ -43,7 +43,7 @@ http://localhost:4567/
 ### Primera parte
 La primera parte de la aplicación se encuetra en el siguiente repositorio:        
                      
-[](https://github.com/germanAOQ/Parcial-AREP-1-primeraParte.git)                  
+https://github.com/germanAOQ/Parcial-AREP-1-primeraParte.git                                    
 
 En esta primera parte se construye un servicio web utilizando SparkJava. Este servicio realiza las operaciones trigonométricas a ser consumidas por el segundo servicio.
 
