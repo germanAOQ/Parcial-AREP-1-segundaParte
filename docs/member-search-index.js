@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"edu.escuelaing.arep.fachada","c":"Fachada","l":"Fachada()","url":"%3Cinit%3E()"},{"p":"edu.escuelaing.arep.fachada","c":"Fachada","l":"main(String[])","url":"main(java.lang.String[])"}]
