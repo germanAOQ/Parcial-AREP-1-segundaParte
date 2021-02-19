@@ -40,11 +40,19 @@ Una vez hecha la ejecución, se podrá acceder a la aplicación localmente atrav
 ```
 http://localhost:4567/
 ```
+### Primera parte
+La primera parte de la aplicación se encuetra en el siguiente repositorio:                             
+[PrimeraParte](https://github.com/germanAOQ/Parcial-AREP-1-primeraParte.git)
+
 ### Uso
 Para hacer de la aplicación debe utilizar dos parámetros: val y trifunction, además se debe usar la ruta: /fachada                    
 Por ejemplo:
 ```
 http://young-dawn-26500.herokuapp.com/fachada?val=2.5&trifunction=cos
+```
+Para la primera parte de la apliación es similar, se debe cambiar el host:
+```
+http://radiant-brook-00421.herokuapp.com/trigcalculator?val=2.5&trifunction=cos
 ```
 
 ## Pruebas
